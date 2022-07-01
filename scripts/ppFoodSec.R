@@ -13,7 +13,7 @@ start_time <- date()
 
 lim_inf <- 2
 lim_sup <- 8
-output_name <- paste("data_output_preprocSA2_",lim_inf,"-",lim_sup,".csv",sep = "")
+output_name <- paste("data/data_foodsec_bgv.csv",lim_inf,"-",lim_sup,".csv",sep = "")
 
 
 options(digits=4)
@@ -22,7 +22,7 @@ sets_options("universe", seq(0, 100, 0.01))
 options(warn=-1)
 suppressMessages(library(ggplot2)) 
 
-setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
+#setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
 
 seleccionCriterios <- read_excel("TablaCriterios5.5.xlsx", sheet = "Hoja1")
 #View(seleccionCriterios)

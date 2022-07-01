@@ -1,0 +1,345 @@
+;id;categoria;grupo;clasificacion_FAO;nombre_cientifico;cultivo;precio_nutrientes;precio_nutrientes_et;incertidumbre;incertidumbre_et;aporte_nutrientes;reg_mincultura;plan_nacional_sa;num_regiones;num_regiones_norm;plan_nacional;plan_nacional_et;rownm;rownums;seg_alimentaria
+1;1;EVA's (MADR) List;Otros permanentes;Beverage and spice crops;Coffea arabica;NA;100;;90;Alta;9.99;3;NA;3;29.3;20;No;1;1;50
+2;2;BGV List;Frutales;Fruits and nuts;Dovyalis hebecarpa;Frutales menores;9.99;;30;Baja;37.35;NA;NA;NA;0;20;No;2;2;37.5
+3;4;ICBF;Frutales;Fruits and nuts;Mauritia flexuosa;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;3;3;30
+4;5;BGV List;Hortalizas;Vegetables and melons;Allium cepa;Cebolla;100;;90;Alta;9.99;NA;X;NA;0;60;Si;4;4;57.5
+5;6;ICBF;Otros permanentes;Other crops;Cabralea canjerana;NA;9.99;;30;Baja;100;NA;NA;NA;0;20;No;5;5;57.5
+6;7;EVA's (MADR) List;Hortalizas;Vegetables and melons;Lactuca sativa;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;6;6;57.5
+7;8;BGV List;Hortalizas;Vegetables and melons;Allium fistulosum;Cebolla larga;100;;10;No;52.18;NA;NA;NA;0;20;No;7;7;57.5
+8;9;ICBF;Otros permanentes;Other crops;Stenocereus griseus;NA;9.99;;30;Baja;50;NA;NA;NA;0;20;No;8;8;57.5
+9;10;BGV List;Hortalizas;Vegetables and melons;Allium sativum;Ajo;100;;90;Alta;9.99;NA;NA;NA;0;20;No;9;9;57.5
+10;11;EVA's (MADR) List;Frutales;Fruits and nuts;Fragaria vesca;NA;100;;60;Media;30;NA;NA;NA;0;20;No;10;10;57.5
+11;12;ICBF;Frutales;Fruits and nuts;Prunus avium;NA;9.99;;10;No;100;NA;NA;NA;0;20;No;11;11;57.5
+12;14;EVA's (MADR) List;Frutales;Fruits and nuts;Vitis vinifera;NA;30;;90;Alta;9.99;NA;NA;NA;0;20;No;12;12;37.5
+13;15;BGV List;Frutales;Fruits and nuts;Anacardium occidentale;Marañon;9.99;;60;Media;40.34;1;NA;1;1;20;No;13;13;34.65
+14;16;ICBF;Oleaginosas;Oilseed crops;Attalea maripa;NA;9.99;;60;Media;30.79;NA;NA;NA;0;20;No;14;14;37.5
+15;17;EVA's (MADR) List;Frutales;Fruits and nuts;Prunus persica;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;15;15;57.5
+16;18;BGV List;Frutales;Fruits and nuts;Ananas comosus;Piña;100;;60;Media;55.51;4;NA;4;43.4;20;No;16;16;55.51
+17;19;ICBF;Plantas aromáticas.condimentarías y medicinales;Other crops;Bromelia pinguin;NA;9.99;;10;No;100;NA;NA;NA;0;20;No;17;17;57.5
+18;20;EVA's (MADR) List;Hortalizas;Vegetables and melons;Cucumis sativus;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;18;18;9.99
+19;21;BGV List;Frutales;Fruits and nuts;Annona cherimola;Anonas;9.99;;60;Media;30;NA;NA;NA;0;20;No;19;19;37.5
+20;22;EVA's (MADR) List;Hortalizas;Vegetables and melons;Coriandrum sativum;NA;31.24;;90;Alta;30;NA;NA;NA;0;20;No;20;20;37.5
+21;23;ICBF;Tubérculos;Root/tuber crops with high starch or inulin conten;Maranta arundinacea;NA;9.99;;60;Media;39.84;NA;NA;NA;0;20;No;21;21;57.5
+22;24;BGV List;Frutales;Fruits and nuts;Annona glabra;Anonas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;22;22;9.99
+23;25;EVA's (MADR) List;Otros permanentes;Other crops;Hevea brasiliensis;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;23;23;9.99
+24;26;EVA's (MADR) List;Tubérculos;Root/tuber crops with high starch or inulin conten;Xanthosoma sagittifolium;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;24;24;9.99
+25;28;ICBF;Tubérculos;Root/tuber crops with high starch or inulin conten;Colocasia esculenta;NA;30;;90;Alta;9.99;3;NA;3;29.3;20;No;25;25;30
+26;29;EVA's (MADR) List;Frutales;Fruits and nuts;Pyrus communis;NA;100;;60;Media;50;1;NA;1;1;20;No;26;26;50
+27;30;BGV List;Frutales;Fruits and nuts;Annona muricata;Anonas;100;;10;No;100;NA;NA;NA;0;20;No;27;27;57.5
+28;31;ICBF;Tubérculos;Root/tuber crops with high starch or inulin conten;Manihot esculenta;NA;54.73;;10;No;100;1;x;1;1;60;Si;28;28;54.73
+29;32;EVA's (MADR) List;Frutales;Fruits and nuts;Prunus domestica;NA;57;;10;No;50;1;NA;1;1;20;No;29;29;57
+30;33;BGV List;Frutales;Fruits and nuts;Annona purpurea;Anonas;9.99;;60;Media;100;NA;NA;NA;0;20;No;30;30;57.5
+31;34;EVA's (MADR) List;Hortalizas;Vegetables and melons;Brassica oleracea;NA;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;31;31;9.99
+32;35;ICBF;Frutales;Fruits and nuts;Mespilus germanica;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;32;32;9.99
+33;37;EVA's (MADR) List;Hortalizas;Vegetables and melons;Beta vulgaris;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;33;33;57.5
+34;38;ICBF;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Urtica dioica;NA;9.99;;10;No;100;NA;NA;NA;0;20;No;34;34;57.5
+35;39;BGV List;Frutales;Fruits and nuts;Annona squamosa;Anonas;30;;90;Alta;9.99;NA;NA;NA;0;20;No;35;35;37.5
+36;40;ICBF;Oleaginosas;Oilseed crops;Oenocarpus bataua;NA;9.99;;60;Media;100;NA;NA;NA;0;20;No;36;36;57.5
+37;41;EVA's (MADR) List;Frutales;Fruits and nuts;Hylocereus undatus;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;37;37;9.99
+38;42;ICBF;Frutales;Fruits and nuts;Opuntia ficus-indica;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;38;38;57.5
+39;43;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Aloe vera;NA;9.99;;60;Media;54.1;NA;NA;NA;0;20;No;39;39;57.5
+40;44;BGV List;Leguminosas;Leguminous crops;Arachis hypogaea;Maní;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;40;40;9.99
+41;45;ICBF;Oleaginosas;Oilseed crops;Prunus dulcis;NA;9.99;;60;Media;30;NA;NA;NA;0;20;No;41;41;37.5
+42;46;EVA's (MADR) List;Hortalizas;Vegetables and melons;Apium graveolens;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;42;42;9.99
+43;47;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Arracacia xanthorrhiza;Arracacha;100;;90;Alta;9.99;1;NA;1;1;20;No;43;43;50
+44;48;BGV List;Frutales;Fruits and nuts;Artocarpus altilis;Frutales menores;9.99;;10;No;100;NA;NA;NA;0;20;No;44;44;57.5
+45;49;EVA's (MADR) List;Frutales;Fruits and nuts;Malus domestica;NA;100;;90;Alta;9.99;7;NA;7;85.9;20;No;45;45;50
+46;50;BGV List;Frutales;Fruits and nuts;Artocarpus heterophyllus;Frutales menores;30;;30;Baja;58.21;NA;NA;NA;0;20;No;46;46;57.5
+47;51;EVA's (MADR) List;Hortalizas;Vegetables and melons;Spinacia oleracea;NA;100;;60;Media;100;NA;x;NA;0;60;Si;47;47;77.5
+48;52;BGV List;Cereales;Cereals;Avena sativa;Avena;100;;60;Media;35.96;1;NA;1;1;20;No;48;48;35.96
+49;53;EVA's (MADR) List;Tubérculos;Root/tuber crops with high starch or inulin conten;Ullucus tuberosus;NA;9.99;;10;No;100;1;NA;1;1;20;No;49;49;50
+50;54;BGV List;Frutales;Fruits and nuts;Averrhoa carambola;Frutales menores;30;;90;Alta;9.99;NA;NA;NA;0;20;No;50;50;37.5
+51;55;EVA's (MADR) List;Oleaginosas;Oilseed crops;Helianthus annuus;NA;9.99;;60;Media;34.1;NA;NA;NA;0;20;No;51;51;37.5
+52;56;BGV List;Frutales;Fruits and nuts;Bactris gasipaes;Chontaduro;100;;90;Alta;9.99;3;NA;3;29.3;20;No;52;52;50
+53;57;EVA's (MADR) List;Frutales;Fruits and nuts;Passiflora quadrangularis;NA;60.09;;60;Media;50;NA;NA;NA;0;20;No;53;53;57.5
+54;59;EVA's (MADR) List;Leguminosas;Leguminous crops;Medicago sativa;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;54;54;9.99
+55;60;BGV List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Bixa orellana;Frutales amazónicos;100;;90;Alta;9.99;NA;NA;NA;0;20;No;55;55;57.5
+56;61;BGV List;Frutales;Fruits and nuts;Blighia sapida;Frutales menores;9.99;;60;Media;30;NA;NA;NA;0;20;No;56;56;37.5
+57;62;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Petroselinum crispum;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;57;57;57.5
+58;63;BGV List;Frutales;Fruits and nuts;Alibertia patinoi;Frutales menores;9.99;;60;Media;50;NA;NA;NA;0;20;No;58;58;57.5
+59;64;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Eryngium foetidum;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;59;59;9.99
+60;65;BGV List;Leguminosas;Leguminous crops;Cajanus cajan;Guandul;61.37;;90;Alta;9.99;2;NA;2;15.1;20;No;60;60;53.92
+61;66;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Piper nigrum;NA;9.99;;30;Baja;50;NA;NA;NA;0;20;No;61;61;57.5
+62;67;BGV List;Frutales;Fruits and nuts;Campomanesia lineatifolia;Frutales menores;30;;90;Alta;9.99;NA;NA;NA;0;20;No;62;62;37.5
+63;68;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Curcuma longa;NA;9.99;;60;Media;56.07;NA;NA;NA;0;20;No;63;63;57.5
+64;69;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Canna indica;Achira;9.99;;90;Alta;9.99;1;NA;1;1;20;No;64;64;30
+65;70;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Thymus vulgaris;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;65;65;9.99
+66;71;BGV List;Hortalizas;Vegetables and melons;Capsicum annuum;Ají;30;;90;Alta;9.99;4;NA;4;43.4;20;No;66;66;30
+67;72;EVA's (MADR) List;Hortalizas;Vegetables and melons;Raphanus sativus;NA;50;;30;Baja;38.07;NA;NA;NA;0;20;No;67;67;57.5
+68;73;EVA's (MADR) List;Hortalizas;Vegetables and melons;Asparagus officinalis;NA;9.99;;90;Alta;30;NA;NA;NA;0;20;No;68;68;37.5
+69;74;BGV List;Hortalizas;Vegetables and melons;Capsicum frutescens;Ají;9.99;;90;Alta;9.99;4;NA;4;43.4;20;No;69;69;30
+70;75;BGV List;Frutales;Fruits and nuts;Carica papaya;Papaya;100;;90;Alta;9.99;1;X;1;1;60;Si;70;70;50
+71;76;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Ocimum basilicum;NA;9.99;;10;No;100;NA;NA;NA;0;20;No;71;71;57.5
+72;77;BGV List;Otros permanentes;Other crops;Caryodendron orinocense;Forestal;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;72;72;9.99
+73;78;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Cymbopogon citratus;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;73;73;9.99
+74;79;BGV List;Frutales;Fruits and nuts;Casimiroa edulis;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;74;74;9.99
+75;80;EVA's (MADR) List;Hortalizas;Vegetables and melons;Sechium edule;NA;30;;90;Alta;9.99;NA;NA;NA;0;20;No;75;75;37.5
+76;81;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Camellia sinensis;NA;9.99;;60;Media;56.03;NA;NA;NA;0;20;No;76;76;57.5
+77;82;BGV List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Casimiroa tetrameria;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;77;77;9.99
+78;84;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Elettaria cardamomum;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;78;78;9.99
+79;85;BGV List;Cereales;Cereals;Chenopodium quinoa;Quinua;100;;90;Alta;9.99;NA;NA;NA;0;20;No;79;79;57.5
+80;86;EVA's (MADR) List;Frutales;Fruits and nuts;Vaccinium corymbosum;NA;9.99;;60;Media;59.03;NA;NA;NA;0;20;No;80;80;57.5
+81;87;EVA's (MADR) List;Hongos;Vegetables and melons;Agaricus bisporus;NA;100;;90;Alta;9.99;NA;NA;NA;0;20;No;81;81;57.5
+82;88;BGV List;Frutales;Fruits and nuts;Chrysophyllum cainito;Frutales menores;30;;10;No;100;NA;NA;NA;0;20;No;82;82;57.5
+83;90;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Zingiber officinale;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;83;83;9.99
+84;91;EVA's (MADR) List;Leguminosas;Leguminous crops;Cicer arietinum;NA;39.49;;90;Alta;9.99;2;NA;2;15.1;20;No;84;84;55.51
+85;92;BGV List;Frutales;Fruits and nuts;Citrus amblycarpa;Cítricos;9.99;;30;Baja;35.06;NA;NA;NA;0;20;No;85;85;37.5
+86;94;BGV List;Frutales;Fruits and nuts;Citrus aurantiifolia;Cítricos;9.99;;60;Media;56.17;NA;NA;NA;0;20;No;86;86;57.5
+87;95;BGV List;Frutales;Fruits and nuts;Citrus aurantium;Cítricos;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;87;87;9.99
+88;96;EVA's (MADR) List;Frutales;Sugar crops;Phoenix dactilyfera;NA;9.99;;90;Alta;9.99;2;NA;2;15.1;20;No;88;88;33.92
+89;97;BGV List;Frutales;Fruits and nuts;Citrus clementina;Cítricos;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;89;89;9.99
+90;98;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Matricaria recutita;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;90;90;9.99
+91;100;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Amaranthus caudatus;NA;50;;90;Alta;9.99;NA;NA;NA;0;20;No;91;91;37.5
+92;101;BGV List;Frutales;Fruits and nuts;Citrus excelsa;Cítricos;9.99;;90;Alta;50;NA;NA;NA;0;20;No;92;92;57.5
+93;102;BGV List;Frutales;Fruits and nuts;Citrus grandis;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;93;93;9.99
+94;103;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Salvia hispanica;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;94;94;9.99
+95;104;BGV List;Frutales;Fruits and nuts;Citrus jambhiri;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;95;95;9.99
+96;105;EVA's (MADR) List;Leguminosas;Leguminous crops;Erythrina edulis;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;96;96;9.99
+97;106;BGV List;Frutales;Fruits and nuts;Citrus latifolia;Cítricos;30;;90;Alta;9.99;NA;NA;NA;0;20;No;97;97;37.5
+98;107;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Mentha pulegium;NA;9.99;;30;Baja;35.68;NA;NA;NA;0;20;No;98;98;37.5
+99;109;EVA's (MADR) List;Frutales;Fruits and nuts;Nephelium lappaceum;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;99;99;9.99
+100;110;BGV List;Frutales;Fruits and nuts;Citrus limon;Cítricos;9.99;;90;Alta;9.99;2;NA;2;15.1;20;No;100;100;33.92
+101;111;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Stevia rebaudiana;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;101;101;9.99
+102;112;BGV List;Frutales;Fruits and nuts;Citrus lycopersicae;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;102;102;9.99
+103;113;EVA's (MADR) List;Frutales;Fruits and nuts;Pourouma cecropiifolia;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;103;103;9.99
+104;114;EVA's (MADR) List;Hongos;Vegetables and melons;Pleurotus ostreatus;NA;9.99;;60;Media;9.99;NA;NA;NA;0;20;No;104;104;9.99
+105;115;EVA's (MADR) List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Hibiscus sabdariffa;NA;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;105;105;9.99
+106;116;BGV List;Frutales;Fruits and nuts;Citrus medica;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;106;106;9.99
+107;118;BGV List;Frutales;Fruits and nuts;Citrus natsudaidai;Cítricos;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;107;107;9.99
+108;119;BGV List;Frutales;Fruits and nuts;Citrus paradisi;Cítricos;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;108;108;9.99
+109;120;BGV List;Frutales;Fruits and nuts;Citrus reticulata;Cítricos;100;;90;Alta;9.99;NA;NA;NA;0;20;No;109;109;57.5
+110;121;BGV List;Frutales;Fruits and nuts;Citrus sinensis;Cítricos;37.01;;10;No;100;NA;X;NA;0;60;Si;110;110;57.5
+111;125;BGV List;Frutales;Fruits and nuts;Citrus volkameriana;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;111;111;9.99
+112;126;BGV List;Frutales;Fruits and nuts;Citrus webberii;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;112;112;9.99
+113;127;BGV List;Frutales;Fruits and nuts;Clausena lansium;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;113;113;9.99
+114;128;BGV List;Otros permanentes;Other crops;Coccoloba uvifera;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;114;114;9.99
+115;129;BGV List;Frutales;Fruits and nuts;Cocos nucifera;Coco;54.41;;30;Baja;56.32;4;NA;4;43.4;20;No;115;115;56.32
+116;130;BGV List;Hortalizas;Vegetables and melons;Cucurbita ficifolia;Cucurbitaceas;9.99;;90;Alta;9.99;1;NA;1;1;20;No;116;116;30
+117;131;BGV List;Hortalizas;Vegetables and melons;Cucurbita maxima;Cucurbitaceas;100;;60;Media;32.94;2;X;2;15.1;60;Si;117;117;73.92
+118;132;BGV List;Hortalizas;Vegetables and melons;Cucurbita moschata;Cucurbitaceas;100;;10;No;100;NA;NA;NA;0;20;No;118;118;57.5
+119;133;BGV List;Hortalizas;Vegetables and melons;Cucurbita pepo;Cucurbitaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;119;119;9.99
+120;134;BGV List;Hortalizas;Vegetables and melons;Cyclanthera pedata;Cucurbitaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;120;120;9.99
+121;136;BGV List;Frutales;Fruits and nuts;Dillenia indica;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;121;121;9.99
+122;137;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Dioscorea esculenta;Ñame;59.22;;30;Baja;100;1;NA;1;1;20;No;122;122;55.78
+123;138;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Dioscorea trifida;Ñame;9.99;;90;Alta;9.99;1;NA;1;1;20;No;123;123;30
+124;139;BGV List;Otros permanentes;Other crops;Diospyros discolor;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;124;124;9.99
+125;142;BGV List;Oleaginosas;Oilseed crops;Elaeis guineensis;Palma africana;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;125;125;9.99
+126;143;BGV List;Oleaginosas;Oilseed crops;Elaeis oleifera;Palma americana;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;126;126;9.99
+127;144;BGV List;Frutales;Fruits and nuts;Eriobotrya japonica;Frutales menores;9.99;;90;Alta;9.99;1;NA;1;1;20;No;127;127;30
+128;146;BGV List;Frutales;Fruits and nuts;Syzygium malaccense;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;128;128;9.99
+129;147;BGV List;Frutales;Fruits and nuts;Eugenia stipitata;Frutales amazónicos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;129;129;9.99
+130;148;BGV List;Frutales;Fruits and nuts;Eugenia uniflora L.;Frutales menores;9.99;;60;Media;100;NA;NA;NA;0;20;No;130;130;57.5
+131;149;BGV List;Frutales;Fruits and nuts;Euterpe catinga;Frutales amazónicos;55.45;;90;Alta;9.99;NA;NA;NA;0;20;No;131;131;37.5
+132;150;BGV List;Frutales;Fruits and nuts;Euterpe oleracea;Frutales amazónicos;9.99;;60;Media;59.03;NA;NA;NA;0;20;No;132;132;57.5
+133;151;BGV List;Oleaginosas;Oilseed crops;Euterpe precatoria;Frutales amazónicos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;133;133;9.99
+134;152;BGV List;Frutales;Fruits and nuts;Ficus carica;Frutales menores;9.99;;90;Alta;9.99;2;NA;2;15.1;20;No;134;134;33.92
+135;153;BGV List;Otros permanentes;Other crops;Flacourtia indica;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;135;135;9.99
+136;157;BGV List;Frutales;Fruits and nuts;Garcinia dulcis;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;136;136;9.99
+137;158;BGV List;Otros permanentes;Other crops;Garcinia macrophylla;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;137;137;9.99
+138;159;BGV List;Frutales;Fruits and nuts;Garcinia madrunno;Frutales menores;30;;90;Alta;9.99;NA;NA;NA;0;20;No;138;138;37.5
+139;160;BGV List;Frutales;Fruits and nuts;Garcinia mangostana;Frutales menores;9.99;;60;Media;53.6;NA;NA;NA;0;20;No;139;139;57.5
+140;161;BGV List;Frutales;Fruits and nuts;Genipa americana;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;140;140;9.99
+141;162;BGV List;Leguminosas;Leguminous crops;Glycine max;Soya;30;;90;Alta;9.99;NA;NA;NA;0;20;No;141;141;37.5
+142;163;BGV List;Fibras;Other crops;Gossypium arboreum;Algodón;9.99;;60;Media;38.16;NA;NA;NA;0;20;No;142;142;57.5
+143;164;BGV List;Fibras;Other crops;Gossypium barbadense;Algodón;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;143;143;9.99
+144;165;BGV List;Fibras;Other crops;Gossypium hirsutum;Algodón;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;144;144;9.99
+145;166;BGV List;Otros permanentes;Other crops;Gustavia superba;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;145;145;9.99
+146;167;BGV List;Fibras;Other crops;Gynerium sagittatum;Caña flecha;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;146;146;9.99
+147;168;BGV List;Otros permanentes;Other crops;Hibiscus elatus;Forestal;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;147;147;9.99
+148;169;BGV List;Cereales;Cereals;Hordeum vulgare;Cebada;38.32;;90;Alta;9.99;1;NA;1;1;20;No;148;148;36.68
+149;170;BGV List;Frutales;Fruits and nuts;Hymenaea courbaril;Frutales menores;30;;60;Media;30;NA;NA;NA;0;20;No;149;149;37.5
+150;171;BGV List;Leguminosas;Leguminous crops;Inga spectabilis;Frutales menores;9.99;;60;Media;41.51;NA;NA;NA;0;20;No;150;150;57.5
+151;172;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Ipomoea batatas;Batata;100;;90;Alta;9.99;3;NA;3;29.3;20;No;151;151;50
+152;173;BGV List;Otros permanentes;Other crops;Lecythis minor;Frutales menores;9.99;;30;Baja;100;NA;NA;NA;0;20;No;152;152;57.5
+153;174;BGV List;Frutales;Fruits and nuts;Litchi chinensis;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;153;153;9.99
+154;176;BGV List;Leguminosas;Leguminous crops;Lupinus mutabilis;Lupinos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;154;154;9.99
+155;177;BGV List;Frutales;Fruits and nuts;Macadamia integrifolia;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;155;155;9.99
+156;178;BGV List;Frutales;Fruits and nuts;Macadamia tetraphylla;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;156;156;9.99
+157;179;BGV List;Otros permanentes;Other crops;Malpighia glabra;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;157;157;9.99
+158;180;BGV List;Frutales;Fruits and nuts;Malpighia punicifolia;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;158;158;9.99
+159;181;BGV List;Frutales;Fruits and nuts;Mammea americana;Frutales menores;30;;90;Alta;9.99;NA;NA;NA;0;20;No;159;159;37.5
+160;182;BGV List;Frutales;Fruits and nuts;Mangifera indica;Mango;100;;60;Media;52.19;2;X;2;15.1;60;Si;160;160;73.92
+161;183;BGV List;Frutales;Fruits and nuts;Manilkara zapota;Frutales menores;60.87;;10;No;100;1;NA;1;1;20;No;161;161;54.12
+162;184;BGV List;Frutales;Fruits and nuts;Melicoccus bijugatus;Frutales menores;9.99;;90;Alta;34.1;NA;NA;NA;0;20;No;162;162;37.5
+163;185;BGV List;Frutales;Fruits and nuts;Morinda citrifolia;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;163;163;9.99
+164;186;BGV List;Plantas aromáticas.condimentarías y medicinales;Beverage and spice crops;Moringa oleifera;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;164;164;9.99
+165;188;BGV List;Frutales;Fruits and nuts;Myrciaria cauliflora;Frutales menores;9.99;;10;No;100;NA;NA;NA;0;20;No;165;165;57.5
+166;189;BGV List;Frutales;Fruits and nuts;Myrciaria dubia;Frutales amazónicos;9.99;;90;Alta;9.99;1;NA;1;1;20;No;166;166;30
+167;190;BGV List;Otros permanentes;Other crops;Nicotiana tabacum;Tabaco;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;167;167;9.99
+168;191;BGV List;Cereales;Cereals;Oryza sativa;Arroz;100;;90;Alta;9.99;8;X;8;100;60;Si;168;168;70
+169;192;BGV List;Otros permanentes;Other crops;Pachira aquatica;Forestal;9.99;;10;No;100;NA;NA;NA;0;20;No;169;169;57.5
+170;193;BGV List;Frutales;Fruits and nuts;Passiflora edulis;Passifloras;100;;90;Alta;9.99;NA;NA;NA;0;20;No;170;170;57.5
+171;194;BGV List;Frutales;Fruits and nuts;Passiflora ligularis;Passifloras;100;;30;Baja;31.84;NA;NA;NA;0;20;No;171;171;57.5
+172;195;BGV List;Frutales;Fruits and nuts;Patinoa almirajo;Frutales menores;9.99;;10;No;100;NA;NA;NA;0;20;No;172;172;57.5
+173;196;BGV List;Frutales;Fruits and nuts;Persea americana;Aguacate;34.57;;90;Alta;9.99;2;NA;2;15.1;20;No;173;173;34.57
+174;197;BGV List;Frutales;Fruits and nuts;Persea caerulea;Aguacate;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;174;174;9.99
+175;198;BGV List;Leguminosas;Leguminous crops;Phaseolus coccineus;Frijol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;175;175;9.99
+176;199;BGV List;Leguminosas;Leguminous crops;Phaseolus vulgaris;Frijol;100;;90;Alta;9.99;5;X;5;57.6;60;Si;176;176;70
+177;200;BGV List;Otros permanentes;Other crops;Phyllanthus acidus;Frutales menores;9.99;;10;No;100;NA;NA;NA;0;20;No;177;177;57.5
+178;201;BGV List;Frutales;Fruits and nuts;Physalis peruviana;Uchuva;39.51;;90;Alta;9.99;2;NA;2;15.1;20;No;178;178;55.49
+179;202;BGV List;Leguminosas;Leguminous crops;Pisum sativum;Arveja;100;;60;Media;33.06;1;X;1;1;60;Si;179;179;53.06
+180;205;BGV List;Frutales;Fruits and nuts;Poncirus trifoliata;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;180;180;9.99
+181;206;BGV List;Frutales;Fruits and nuts;Pouteria caimito;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;181;181;9.99
+182;207;BGV List;Frutales;Fruits and nuts;Pouteria campechiana;Frutales menores;100;;90;Alta;9.99;NA;NA;NA;0;20;No;182;182;57.5
+183;208;BGV List;Frutales;Fruits and nuts;Pouteria lucuma;Frutales menores;9.99;;60;Media;30;NA;NA;NA;0;20;No;183;183;37.5
+184;210;BGV List;Frutales;Fruits and nuts;Psidium guajava;Guayaba;100;;60;Media;52.19;3;X;3;29.3;60;Si;184;184;72.19
+185;211;BGV List;Frutales;Fruits and nuts;Punica granatum;Frutales menores;9.99;;10;No;100;NA;NA;NA;0;20;No;185;185;57.5
+186;212;BGV List;Frutales;Fruits and nuts;Matisia cordata;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;186;186;9.99
+187;213;BGV List;Oleaginosas;Oilseed crops;Ricinus communis;Higuerilla;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;187;187;9.99
+188;215;BGV List;Frutales;Fruits and nuts;Rubus floribundus;Mora;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;188;188;9.99
+189;216;BGV List;Frutales;Fruits and nuts;Rubus glaucus;Mora;60.49;;90;Alta;9.99;1;X;1;1;60;Si;189;189;54.51
+190;217;BGV List;Frutales;Fruits and nuts;Rubus idaeus;Mora;9.99;;30;Baja;100;NA;NA;NA;0;20;No;190;190;57.5
+191;218;BGV List;Frutales;Fruits and nuts;Rubus urticifolius;Mora;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;191;191;9.99
+192;219;BGV List;Otros permanentes;Sugar crops;Saccharum officinarum;Caña de azucar;30.6;;90;Alta;9.99;NA;X;NA;0;60;Si;192;192;37.5
+193;220;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Smallanthus sonchifolius;Yacon;9.99;;10;No;33.58;NA;NA;NA;0;20;No;193;193;37.5
+194;221;BGV List;Frutales;Fruits and nuts;Solanum betaceum;Tomate de árbol;9.99;;90;Alta;50;NA;X;NA;0;60;Si;194;194;57.5
+195;222;BGV List;Hortalizas;Vegetables and melons;Solanum lycopersicum;Tomate de mesa;35.28;;10;No;100;NA;X;NA;0;60;Si;195;195;57.5
+196;223;BGV List;Hortalizas;Vegetables and melons;Solanum melongena;Berenjena;100;;30;Baja;50;1;NA;1;1;20;No;196;196;50
+197;225;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Solanum phureja;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;197;197;9.99
+198;226;BGV List;Frutales;Fruits and nuts;Solanum quitoense;Lulo;100;;60;Media;100;1;NA;1;1;20;No;198;198;50
+199;227;BGV List;Tubérculos;Root/tuber crops with high starch or inulin conten;Solanum tuberosum;Papa;100;;30;Baja;100;5;X;5;57.6;60;Si;199;199;70
+200;228;BGV List;Cereales;Cereals;Sorghum vulgare;Sorgo;9.99;;10;No;50;NA;NA;NA;0;20;No;200;200;57.5
+201;230;BGV List;Frutales;Fruits and nuts;Spondias purpurea;Frutales menores;9.99;;90;Alta;9.99;1;NA;1;1;20;No;201;201;30
+202;231;BGV List;Frutales;Fruits and nuts;Spondias tuberosa;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;202;202;9.99
+203;232;BGV List;Otros permanentes;Other crops;Sterculia apetala;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;203;203;9.99
+204;233;BGV List;Frutales;Fruits and nuts;Synsepalum dulcificum;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;204;204;9.99
+205;234;BGV List;Frutales;Fruits and nuts;Syzygium jambos;Frutales menores;30;;90;Alta;9.99;NA;NA;NA;0;20;No;205;205;37.5
+206;235;BGV List;Frutales;Fruits and nuts;Tabernaemontana heyneana;Frutales menores;9.99;;60;Media;100;NA;NA;NA;0;20;No;206;206;57.5
+207;236;BGV List;Frutales;Fruits and nuts;Tamarindus indica;Frutales menores;30;;90;Alta;9.99;1;NA;1;1;20;No;207;207;30
+208;237;BGV List;Frutales;Fruits and nuts;Terminalia catappa;Frutales menores;9.99;;60;Media;30;NA;NA;NA;0;20;No;208;208;37.5
+209;238;BGV List;Frutales;Fruits and nuts;Theobroma bicolor;Cacao;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;209;209;9.99
+210;239;BGV List;Otros permanentes;Other crops;Theobroma cacao;Cacao;100;;90;Alta;9.99;2;X;2;15.1;60;Si;210;210;73.92
+211;240;BGV List;Frutales;Fruits and nuts;Theobroma grandiflorum;Cacao;30;;10;No;100;1;NA;1;1;20;No;211;211;50
+212;242;BGV List;Cereales;Cereals;Triticum aestivum;Trigo;58.32;;60;Media;30;2;X;2;15.1;60;Si;212;212;76.67
+213;243;BGV List;Frutales;Fruits and nuts;Vaccinium meridionale;Mortiño;9.99;;60;Media;50;NA;NA;NA;0;20;No;213;213;57.5
+214;245;BGV List;Leguminosas;Leguminous crops;Vicia faba;Haba;30;;90;Alta;9.99;2;NA;2;15.1;20;No;214;214;33.92
+215;246;BGV List;Leguminosas;Leguminous crops;Vigna radiata;Mungo;9.99;;60;Media;30;NA;NA;NA;0;20;No;215;215;37.5
+216;247;BGV List;Cereales;Cereals;Zea mays;Maíz;33.4;;90;Alta;9.99;8;X;8;100;60;Si;216;216;53.4
+217;248;BGV List;Otros permanentes;Other crops;Ziziphus mauritiana;Frutales menores;9.99;;30;Baja;30;NA;NA;NA;0;20;No;217;217;37.5
+218;249;BGV List;Otros permanentes;Other crops;Zizyphus jujuba;Frutales menores;9.99;;90;Alta;9.99;1;NA;1;1;20;No;218;218;30
+219;250;BGV List;Frutales;Fruits and nuts;Musa balbisiana;Musaceas;9.99;;90;Alta;9.99;7;X;7;85.9;60;Si;219;219;50
+220;251;BGV List;Frutales;Fruits and nuts;Musa acuminata;Musaceas;100;;90;Alta;9.99;1;X;1;1;60;Si;220;220;50
+221;252;BGV List;Frutales;Fruits and nuts;Musa laterita;Musaceas;9.99;;10;No;100;NA;NA;NA;0;20;No;221;221;57.5
+222;253;BGV List;Frutales;Fruits and nuts;Musa ornata;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;222;222;9.99
+223;254;BGV List;Frutales;Fruits and nuts;Musa textilis;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;223;223;9.99
+224;255;BGV List;Frutales;Fruits and nuts;Musa basjoo;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;224;224;9.99
+225;256;BGV List;Frutales;Fruits and nuts;Musa itinerans;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;225;225;9.99
+226;258;BGV List;Frutales;Fruits and nuts;Musa velutina;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;226;226;9.99
+227;259;BGV List;Frutales;Fruits and nuts;Cucumis melo;Frutales menores;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;227;227;9.99
+228;260;BGV List;Frutales;Fruits and nuts;Passiflora maliformis;Passifloras;9.99;;10;No;100;NA;NA;NA;0;20;No;228;228;57.5
+229;261;BGV List;Frutales;Fruits and nuts;Passiflora tarminiana1;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;229;229;9.99
+230;262;BGV List;Frutales;Fruits and nuts;Solanum sessiliflorum1;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;230;230;9.99
+231;263;BGV List;NA;Other crops;Calopogonium mucunoides;Pastos y Forrajes;9.99;;60;Media;41.4;NA;NA;NA;0;20;No;231;231;57.5
+232;264;BGV List;NA;Leguminous crops;Canavalia ensiformis;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;232;232;9.99
+233;265;BGV List;NA;Beverage and spice crops;Capsicum abbreviatum;Ají;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;233;233;9.99
+234;266;BGV List;NA;Beverage and spice crops;Capsicum baccatum;Ají;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;234;234;9.99
+235;267;BGV List;NA;Beverage and spice crops;Capsicum chinense;Ají;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;235;235;9.99
+236;268;BGV List;NA;Beverage and spice crops;Capsicum praetermissum;Ají;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;236;236;9.99
+237;269;BGV List;NA;Beverage and spice crops;Capsicum pubescens;Ají;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;237;237;9.99
+238;270;BGV List;NA;Fruits and nuts;Citrus japonica;Cítricos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;238;238;9.99
+239;271;BGV List;NA;Other crops;Crotalaria anagyroides;Pastos y Forrajes;100;;90;Alta;9.99;NA;NA;NA;0;20;No;239;239;57.5
+240;272;BGV List;NA;Other crops;Crotalaria juncea;Pastos y Forrajes;100;;90;Alta;9.99;NA;NA;NA;0;20;No;240;240;57.5
+241;273;BGV List;NA;Other crops;Crotalaria lanceolata;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;241;241;9.99
+242;274;BGV List;NA;Other crops;Crotalaria ochroleuca;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;242;242;9.99
+243;275;BGV List;NA;Other crops;Crotalaria retusa;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;243;243;9.99
+244;276;BGV List;NA;Other crops;Crotalaria spectabilis;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;244;244;9.99
+245;277;BGV List;NA;Other crops;Crotalaria striata;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;245;245;9.99
+246;278;BGV List;NA;Root/tuber crops with high starch or inulin conten;Dioscorea alata;Ñame;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;246;246;9.99
+247;279;BGV List;NA;Root/tuber crops with high starch or inulin conten;Dioscorea bulbifera;Ñame;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;247;247;9.99
+248;280;BGV List;NA;Root/tuber crops with high starch or inulin conten;Dioscorea rotundata;Ñame;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;248;248;9.99
+249;281;BGV List;NA;Other crops;Leucaena leucocephala;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;249;249;9.99
+250;282;BGV List;NA;Other crops;Lupinus angustifolius;Lupinos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;250;250;9.99
+251;283;BGV List;NA;Other crops;Lupinus luteus;Lupinos;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;251;251;9.99
+252;284;BGV List;NA;Leguminous crops;Mucuna deeringiana;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;252;252;9.99
+253;285;BGV List;NA;Other crops;Musa coccinea;Musaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;253;253;9.99
+254;286;BGV List;NA;Other crops;Nicandra physalodes;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;254;254;9.99
+255;287;BGV List;NA;Cereals;Panicum miliaceum;Millo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;255;255;9.99
+256;288;BGV List;NA;Fruits and nuts;Passiflora adenopoda;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;256;256;9.99
+257;289;BGV List;NA;Fruits and nuts;Passiflora alata;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;257;257;9.99
+258;290;BGV List;NA;Fruits and nuts;Passiflora alnifolia;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;258;258;9.99
+259;291;BGV List;NA;Fruits and nuts;Passiflora antioquiensis;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;259;259;9.99
+260;292;BGV List;NA;Fruits and nuts;Passiflora apoda;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;260;260;9.99
+261;293;BGV List;NA;Fruits and nuts;Passiflora cumbalensis;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;261;261;9.99
+262;294;BGV List;NA;Fruits and nuts;Passiflora foetida;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;262;262;9.99
+263;295;BGV List;NA;Fruits and nuts;Passiflora gracilis;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;263;263;9.99
+264;296;BGV List;NA;Fruits and nuts;Passiflora hahnii;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;264;264;9.99
+265;297;BGV List;NA;Fruits and nuts;Passiflora jardinensis;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;265;265;9.99
+266;298;BGV List;NA;Fruits and nuts;Passiflora laurifolia;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;266;266;9.99
+267;299;BGV List;NA;Fruits and nuts;Passiflora manicata;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;267;267;9.99
+268;300;BGV List;NA;Fruits and nuts;Passiflora mixta;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;268;268;9.99
+269;301;BGV List;NA;Fruits and nuts;Passiflora mollissima;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;269;269;9.99
+270;302;BGV List;NA;Fruits and nuts;Passiflora pinnatistipula;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;270;270;9.99
+271;303;BGV List;NA;Fruits and nuts;Passiflora sanguinolenta;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;271;271;9.99
+272;305;BGV List;NA;Fruits and nuts;Passiflora tiliifolia;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;272;272;9.99
+273;306;BGV List;NA;Fruits and nuts;passiflora tripartita;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;273;273;9.99
+274;307;BGV List;NA;Fruits and nuts;Passiflora vitifolia;Passifloras;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;274;274;9.99
+275;308;BGV List;NA;Cereals;Pennisetum glaucum* Cenchrus americanus;Millo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;275;275;9.99
+276;309;BGV List;NA;Leguminous crops;Phaseolus lunatus;Frijol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;276;276;9.99
+277;310;BGV List;NA;Fruits and nuts;Physalis aequata* Physalis ixocarpa;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;277;277;9.99
+278;311;BGV List;NA;Fruits and nuts;Physalis alkekengi;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;278;278;9.99
+279;312;BGV List;NA;Fruits and nuts;Physalis angulata;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;279;279;9.99
+280;313;BGV List;NA;Fruits and nuts;Physalis coztomatl;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;280;280;9.99
+281;314;BGV List;NA;Fruits and nuts;Physalis floridana*Physalis pubescens;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;281;281;9.99
+282;315;BGV List;NA;Fruits and nuts;Physalis fuscomaculata;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;282;282;9.99
+283;316;BGV List;NA;Fruits and nuts;Physalis mendocina;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;283;283;9.99
+284;317;BGV List;NA;Fruits and nuts;Physalis mexicana;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;284;284;9.99
+285;318;BGV List;NA;Fruits and nuts;Physalis philadelphica;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;285;285;9.99
+286;319;BGV List;NA;Fruits and nuts;Physalis pruinosa;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;286;286;9.99
+287;320;BGV List;NA;Fruits and nuts;Physalis viscosa;Uchuva;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;287;287;9.99
+288;321;BGV List;NA;Fruits and nuts;Psidium friedrichsthalianum;Guayaba;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;288;288;9.99
+289;322;BGV List;NA;Fruits and nuts;Rubus niveus;Mora;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;289;289;9.99
+290;323;BGV List;Oleaginosas;Oilseed crops;Sesamum indicum;Ajonjolí;9.99;;90;Alta;9.99;2;NA;2;15.1;20;No;290;290;33.92
+291;324;BGV List;NA;Vegetables and melons;Sicana odorifera;Cucurbitaceas;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;291;291;9.99
+292;325;BGV List;NA;Vegetables and melons;Solanum amotapense;Tomate de árbol;37.43;;90;Alta;9.99;NA;NA;NA;0;20;No;292;292;37.5
+293;326;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum andreanum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;293;293;9.99
+294;327;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum antipoviczii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;294;294;9.99
+295;328;BGV List;NA;Vegetables and melons;Solanum atropurpureum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;295;295;9.99
+296;329;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum candolleanum;papa;100;;90;Alta;9.99;NA;NA;NA;0;20;No;296;296;57.5
+297;330;BGV List;NA;Vegetables and melons;Solanum capsicoides;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;297;297;9.99
+298;331;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum cardiophyllum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;298;298;9.99
+299;332;BGV List;NA;Vegetables and melons;Solanum caripense;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;299;299;9.99
+300;333;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum chrenhkigii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;300;300;9.99
+301;334;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum colombianum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;301;301;9.99
+302;335;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum commersonii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;302;302;9.99
+303;336;BGV List;NA;Fruit and nuts;Solanum corymbiflorum;tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;303;303;9.99
+304;337;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum curtilobum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;304;304;9.99
+305;338;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum demissum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;305;305;9.99
+306;339;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum depexum* Solanum acaule;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;306;306;9.99
+307;340;BGV List;NA;Fruit and nuts;Solanum diversifolium;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;307;307;9.99
+308;341;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum faoensis;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;308;308;9.99
+309;342;BGV List;NA;Fruits and nuts;Solanum ferox;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;309;309;9.99
+310;343;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum flahaultii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;310;310;9.99
+311;344;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum garcia-barrigae;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;311;311;9.99
+312;345;BGV List;NA;Fruits and nuts;Solanum hartwegii;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;312;312;9.99
+313;346;BGV List;NA;Fruit and nuts;Solanum hirtum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;313;313;9.99
+314;347;BGV List;NA;Vegetables and melons;Solanum jamaicense;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;314;314;9.99
+315;348;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum jamesii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;315;315;9.99
+316;349;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum juglandifolium;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;316;316;9.99
+317;350;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum juzepczukii;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;317;317;9.99
+318;351;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum lobianum*Solanum lobbianum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;318;318;9.99
+319;352;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum malinchense;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;319;319;9.99
+320;353;BGV List;NA;Fruit and nuts;Solanum mammosum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;320;320;9.99
+321;354;BGV List;NA;Fruit and nuts;Solanum marginatum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;321;321;9.99
+322;355;BGV List;NA;Fruits and nuts;Solanum maternum;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;322;322;9.99
+323;356;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum moscopanum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;323;323;9.99
+324;357;BGV List;NA;Fruit and nuts;Solanum obliquum;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;324;324;9.99
+325;358;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum parodii*Solanum chacoense;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;325;325;9.99
+326;359;BGV List;NA;Fruit and nuts;Solanum pectinatum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;326;326;9.99
+327;360;BGV List;NA;Vegetables and melons;Solanum peruvianum;Tomate de mesa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;327;327;9.99
+328;361;BGV List;NA;Vegetables and melons;Solanum pimpinellifolium;Tomate de mesa;9.99;;60;Media;30;NA;NA;NA;0;20;No;328;328;37.5
+329;362;BGV List;NA;Fruits and nuts;Solanum pseudolulo;Lulo;9.99;;60;Media;30;NA;NA;NA;0;20;No;329;329;37.5
+330;363;BGV List;NA;Fruit and nuts;Solanum saponaceum;Lulo;30;;90;Alta;9.99;NA;NA;NA;0;20;No;330;330;37.5
+331;365;BGV List;NA;Fruit and nuts;Solanum sibundoyense;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;331;331;9.99
+332;366;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum stenotomun*Solanum tuberosum YA ESTA ARRIBA;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;332;332;9.99
+333;367;BGV List;NA;Root/tuber crops with high starch or inulin conten;Solanum tuquerrense*Solanum andreanum;Papa;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;333;333;9.99
+334;368;BGV List;NA;Fruits and nuts;Solanum unilobum;Tomate de árbol;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;334;334;9.99
+335;369;BGV List;NA;Fruits and nuts;Solanum vestissimum;Lulo;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;335;335;9.99
+336;370;BGV List;NA;Other crops;Stylosanthes guianensis;Pastos y Forrajes;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;336;336;9.99
+337;371;BGV List;NA;Leguminous crops;Vigna unguiculata;Caupi;9.99;;90;Alta;9.99;NA;NA;NA;0;20;No;337;337;9.99
+338;373;Ministerio de cultura;Hortalizas;Vegetables and melons;Chrysobalanus icaco;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;338;338;30
+339;374;Ministerio de cultura;Tubérculos;Root/tuber crops with high starch or inulin conten;Oxalis tuberosa;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;339;339;30
+340;375;Ministerio de cultura;Hortalizas;Vegetables and melons;Poraqueiba sericea;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;340;340;30
+341;376;Ministerio de cultura;Fibras;Other crops;Tropaeolum tuberosum;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;341;341;30
+342;377;Ministerio de cultura;Frutales;Fruits and nuts;Vasconcellea pubescens;NA;9.99;;90;Alta;9.99;1;NA;1;1;20;No;342;342;30
+343;378;PNSAN;Plantas aromáticas.condimentarías y medicinales;Vegetables and melons;Lens culinaris;NA;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;343;343;9.99
+344;379;PNSAN;Hortalizas;Vegetables and melons;Daucus carota;NA;9.99;;90;Alta;9.99;NA;X;NA;0;60;Si;344;344;9.99

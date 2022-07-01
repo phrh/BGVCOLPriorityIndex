@@ -13,7 +13,7 @@ start_time <- date()
 
 lim_inf <- 1
 lim_sup <- 3
-output_name <- paste("data_output_eco_serv_15-08",lim_inf,"-",lim_sup,".csv",sep = "")
+output_name <- paste("data/data_eco_bgv",lim_inf,"-",lim_sup,".csv",sep = "")
 
 
 options(digits=4)
@@ -22,9 +22,9 @@ sets_options("universe", seq(0, 100, 0.01))
 options(warn=-1)
 suppressMessages(library(ggplot2)) 
 
-setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
+#setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
 
-seleccionCriterios <- read_excel("TablaCriterios5.4.xlsx", sheet = "Hoja1")
+seleccionCriterios <- read_excel("TablaCriterios5.5.xlsx", sheet = "Hoja1")
 #View(seleccionCriterios)
 seleccionCriterios <- filter(seleccionCriterios,borrar != "Borrar")
 seleccionCriterios <- filter(seleccionCriterios,!is.na(id))

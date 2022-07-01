@@ -10,15 +10,14 @@ library(Ckmeans.1d.dp)
 #library(mailR)
 
 
-output_name <- "data_int_banco_imp_1208.csv"
+output_name <- "data_bgv.csv"
 
 
 
 options(digits=4)
 
-setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
 
-data_indice <- read.csv2("data_int_banco_2508.csv", stringsAsFactors = FALSE)
+data_indice <- read.csv2("data_noimp_bgv.csv", stringsAsFactors = FALSE)
 
 rep <- read.csv2("representantes.csv", stringsAsFactors = FALSE)
 rep$cultivo <- as.factor(rep$cultivo)

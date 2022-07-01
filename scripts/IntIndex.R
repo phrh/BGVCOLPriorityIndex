@@ -7,12 +7,11 @@ library(scales)
 library(BBmisc)
 library(stringr)
 library(Ckmeans.1d.dp)
-#library(mailR)
 
 
 lim_inf <- 1
-lim_sup <- 3
-output_name <- paste("data_output_INT_banco_1608_",lim_inf,"-",lim_sup,".csv",sep = "")
+lim_sup <- 375
+output_name <- paste("data/INT_bgv_1608_",lim_inf,"-",lim_sup,".csv",sep = "")
 
 
 
@@ -22,9 +21,9 @@ sets_options("universe", seq(0, 100, 0.01))
 options(warn=-1)
 suppressMessages(library(ggplot2)) 
 
-setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
+#setwd("C:/Users/ddelgadillo/OneDrive - AGROSAVIA - CORPORACION COLOMBIANA DE INVESTIGACION AGROPECUARIA/Escritorio/Criterios/Indice/Categorias/indiceTodas/varContinuas")
 
-data_indice <- read.csv2("data_int_banco_1608.csv",sep = ",",header = TRUE,dec = ".")
+data_indice <- read.csv2("data_bgv.csv",sep = ",",header = TRUE,dec = ".")
 #head(data_indice)
 data_indice$id <- as.numeric(data_indice$id)
 data_indice$origen <- as.numeric(format(data_indice$origen, digits=4))
