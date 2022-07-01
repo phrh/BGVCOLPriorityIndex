@@ -31,13 +31,13 @@ In script folder you will find 5 R scripts, every scripts executes a R routine a
 #### Input
 `TablaCriterios5.5.xlsx`
 #### Output
-`data_foosec_bgv.csv`
+`data_foodsec_bgv.csv`
 ### FoodSec.R  
 
 #### Input
-`data_foosec_bgv.csv`
+`data_foodsec_bgv.csv`
 #### Output
-``data_foosec_bgv.csv``
+``data_foodsec_bgv.csv``
 ### Imputation.R
 
 #### Input
