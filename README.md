@@ -23,32 +23,32 @@ In script folder you will find 5 R scripts, every scripts executes a R routine a
 ### EconBenefits.R 
 
 #### Input
-
+`TablaCriterios5.5.xlsx`
 #### Output
-
+`data_eco_bgv.csv`
 #### ppFoodSec.R
 
 #### Input
-
+`TablaCriterios5.5.xlsx`
 #### Output
-
+`data_foosec_bgv.csv`
 ### FoodSec.R  
 
 #### Input
-
+`data_foosec_bgv.csv`
 #### Output
-
+``data_foosec_bgv.csv``
 ### Imputation.R
 
 #### Input
-
+`data_noimp_bgv.csv`
 #### Output
-
+`data_bgv.csv`
 
 ### IntIndex.R
 
 #### Input
-
+`data_bgv.csv`
 #### Output
-
+`INT_bgv_1608_1-375.csv`
 
