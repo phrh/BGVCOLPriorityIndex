@@ -17,13 +17,38 @@ This repository contains scripts related with the methodolggy implemented in the
 
 In script folder you will find 5 R scripts, every scripts executes a R routine and return a csv file with results, In the following image you can see the process involved in each script and then the description of each one :
 
-![fuzzyDiagScripts](https://user-images.githubusercontent.com/50838265/176931395-67637d6d-b996-47de-b2e4-87f6b1d4b4f6.svg)
+
+![fuzzyDiagScriptsv2](https://user-images.githubusercontent.com/50838265/176958279-7261ec4c-6da3-43e6-ba3e-6a6402731778.svg)
 
 ### EconBenefits.R 
-### ppFoodSec.R
+
+#### Input
+
+#### Output
+
+#### ppFoodSec.R
+
+#### Input
+
+#### Output
+
 ### FoodSec.R  
+
+#### Input
+
+#### Output
+
 ### Imputation.R
+
+#### Input
+
+#### Output
+
+
 ### IntIndex.R
 
+#### Input
+
+#### Output
 
 
